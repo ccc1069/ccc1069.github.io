@@ -1,0 +1,25 @@
+---
+title: "Publications"
+subtitle: "a selection of my research work" 
+page-layout: full
+title-block-banner: true
+toc: false
+---
+
+## Major Journal Publications (*Corresponding Author)
+
+- Zheng, J.Q.*, Cheung, K.C., Sit, P.S. (2024). Identifying Key Features of Resilient Student in Digital Reading: Insights from a Machine Learning Approach. Education and Information Technologies, 29, 2277–2301. [Link](https://doi.org/10.1007/s10639-023-11908-0) [SSCI, JCR Q1]
+
+- Zheng, J.Q.*, Cheung, K.C., Sit, P.S., Lam, C.C. (2024). Unraveling the Relationship between ESCS and Digital Reading Performance: A Multilevel Mediation Analysis of ICT-related Dispositions. Education and Information Technologies, 1–19. [Link](https://doi.org/10.1007/s10639-024-12458-9) [SSCI, JCR Q1]
+
+- Zheng, J.Q.*, Cheung, K.C., Sit, P.S. (2023). The Effects of Perceptions towards Interpersonal Relationships on Collaborative Problem-Solving Competence: Comparing Four Ethnic Chinese Communities assessed in PISA 2015. The Asia-Pacific Education Researcher, 1–13. [Link](https://doi.org/10.1007/s40299-023-00744-y) [SSCI, JCR Q1]
+
+- Zheng, J.Q., Tan, L.H.* (2023). Multiple Pathways to Science Enjoyment: A Fuzzy-Set Qualitative Comparative Analysis in TIMSS 2019. International Journal of Science Education, 1–20. [Link](https://doi.org/10.1080/09500693.2023.2272604) [SSCI, JCR Q1]
+
+- Zheng, J.Q.*, Cheung, K.C., Sit, P.S. (2024). Insights from Two Decades of PISA-related Studies in the New Century: A Systematic Review. Scandinavian Journal of Educational Research, 68(3), 371–388. [Link](https://doi.org/10.1080/00313831.2022.2148273) [SSCI, JCR Q2]
+
+- Zheng, J.Q.*, Cheung, K.C., Sit, P.S. (2024). A Systematic Review of Academic Resilience in East Asia: Evidence from the Large-scale Assessment Research. Psychology in the Schools, 61(3), 1238–1254. [Link](https://doi.org/10.1002/pits.23109) [SSCI, JCR Q3]
+
+- Cheung, K.C., Sit, P.S., Zheng, J.Q.*, Lam, C.C., Mak, S.K., Ieong, M.K. (2024). A Machine Learning Model of Academic Resilience in the Times of the COVID-19 Pandemic: Evidences drawn from 79 Countries/economies in the PISA 2022 Mathematics Study. British Journal of Educational Psychology. [Link](https://doi.org/10.1111/bjep.12715) [SSCI, JCR Q1]
+
+- Yang, Y. D., Zheng, J.Q.*(2024). Unfolding the Moderating Role of Gender in the Relationship between Teacher Support and Students' Well-being: Evidence from PISA 2022. Child Indicators Research. [Link](https://doi.org/10.1007/s12187-024-10172-z) [SSCI, JCR Q1]

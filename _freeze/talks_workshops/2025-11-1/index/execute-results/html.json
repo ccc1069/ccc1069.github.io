@@ -1,0 +1,15 @@
+{
+  "hash": "6e07ff397a3806220bea952652be97b9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Group Meeting Gallery\"\ndescription: \"A collection of photos from our group meetings and activities\"\ndate: 2025-11-22\ncategories: [group-meeting, gallery, team-activities]\n---\n\n# Group Meeting Gallery\n\nWelcome to our group meeting photo gallery! This page showcases moments from our collaborative work sessions, discussions, and team activities.\n\n<br>\n\n## Latest Group Photos\n\n::: {layout=\"[[1, 1], [1, 1]]\"}\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=720}\n:::\n:::\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p2.jpg){fig-align='center' width=853}\n:::\n:::\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p3.jpg){fig-align='center' width=853}\n:::\n:::\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p4.jpg){fig-align='center' width=853}\n:::\n:::\n\n\n:::\n\n<br>\n\n---\n\n::: {.center-text .small-text .gray-italic}\nMore photos coming soon! We regularly update this gallery with new group meeting memories.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

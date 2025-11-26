@@ -1,0 +1,15 @@
+{
+  "hash": "6a36bb3b29a69db3fab94d9ad4318a36",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"New Electronic Information Technology and Application\"\ndescription: |\n  this class introduces cutting-edge electronic information technology and applications.\ncategories: [electronics]\nimage: image.png\ndraft: false\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](image.png){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Class Photo**\n:::\n\n# Course description\n\n2024-2025 Winter, New Electronic Information Technology and Application\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "8055c458780a36f5d532287518de5f6c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Participant, the 1st Council Meeting of the Smart Education Professional Committee\"\ndescription: \"Participation in the council meeting for smart education professionals\"\ndate: 2025-09-13\n#categories: [smart-education, professional-committee, council-meeting]\nimage: p1.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">Group photo after the meeting</p>\n\n<br>\n\n# Abstract\n\nParticipant at the 1st Council Meeting of the Smart Education Professional Committee of the China Association for Non-Government Education held in Beijing in September 2025. This meeting brought together educational professionals and experts to discuss strategic directions and initiatives in smart education.\n\n# Event Details\n\n- **Date:** September 2025\n- **Location:** Beijing\n- **Event:** The 1st Council Meeting of the Smart Education Professional Committee\n- **Hosting Organization:** China Association for Non-Government Education\n- **Role:** Participant\n\n# Audience\n\nThis council meeting convened professionals and leaders in the smart education field from the China Association for Non-Government Education to collaboratively advance smart education initiatives and policy discussions.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

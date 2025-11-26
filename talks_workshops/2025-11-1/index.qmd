@@ -1,0 +1,54 @@
+---
+title: "Group Meeting Gallery"
+description: "A collection of photos from our group meetings and activities"
+date: 2025-11-22
+categories: [group-meeting, gallery, team-activities]
+---
+
+# Group Meeting Gallery
+
+Welcome to our group meeting photo gallery! This page showcases moments from our collaborative work sessions, discussions, and team activities.
+
+<br>
+
+## Latest Group Photos
+
+::: {layout="[[1, 1], [1, 1]]"}
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("p1.jpg")
+```
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("p2.jpg")
+```
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("p3.jpg")
+```
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("p4.jpg")
+```
+
+:::
+
+<br>
+
+---
+
+::: {.center-text .small-text .gray-italic}
+More photos coming soon! We regularly update this gallery with new group meeting memories.
+:::

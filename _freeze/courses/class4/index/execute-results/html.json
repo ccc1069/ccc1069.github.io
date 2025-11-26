@@ -1,0 +1,15 @@
+{
+  "hash": "b94ee1dff5fd1cffdecf75e96c8f05a1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Introduction to Smart Education\"\ndescription: |\n  this class introduces the fundamentals of smart education.\ncategories: [education]\nimage: image.png\ndraft: false\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](image.png){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Class Photo**\n:::\n\n# Course description\n\n2025-2026 Summer, Introduction to Smart Education\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

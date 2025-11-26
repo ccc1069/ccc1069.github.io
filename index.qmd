@@ -1,0 +1,30 @@
+---
+title: "Jia-Qi Zheng"
+image: images/jq.png
+toc: false
+about: 
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 15em
+---
+
+::: {#hero-heading}
+
+Our Lab was founded in September 2024 by Prof. Jia-qi Zheng. It is affiliated with the Guangdong Institute of Smart Education at Jinan University (JNU). We specialize in international large-scale educational assessment studies, such as PISA, TIMSS, and PIRLS. By leveraging cutting-edge technologies, including deep learning, machine learning, and explainable artificial intelligence. We aim to investigate key factors influencing students' cognitive and non-cognitive competencies, behavioral patterns, as well as crucial topics regarding affective computing, which covers emotion recognition, reasoning, and generation.
+
+Our lab is a multidisciplinary team composed of researchers from educational technology, computer science, and sociology. Currently, our work focuses on topics including students’ academic resilience, self-efficacy, well-being, subject-specific competencies, and emotion-related processes in learning contexts.
+
+We warmly welcome interdisciplinary collaboration. For further information or to discuss potential collaborations, please feel free to contact Prof. Jia-qi Zheng at **jqzheng@jnu.edu.cn**.
+
+## EXPERIENCE
+
+- **12/2024 - Current Associate Professor** Guangdong Institute of Smart Education, Jinan University
+- **08/2023 - 05/2024  Resident Tutor** Moon Chun Memorial College, University of Macau
+
+## EDUCATION
+- **08/2021 - 09/2024**  Ph.D. in Education, University of Macau
+- **08/2019-05/2021**  M.Phil. in Curriculum and Instruction, University of Macau
+- **08/2014-06/2018**  Bachelor in Primary Education, University of Macau
+
+:::

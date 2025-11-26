@@ -1,0 +1,15 @@
+{
+  "hash": "acda16d404803e752a7e4f5e82470b82",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Elected Executive Committee Member, the 1st China Human–Machine Computing Conference\"\ndescription: \"Election to executive committee of the computing conference\"\ndate: 2025-08-23\n#categories: [conference, executive-committee, computing]\nimage: p1.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">The 1st China Human–Machine Computing Conference & the 21st National Symposium</p>\n\n<br>\n\n# Abstract\n\nElected as an Executive Committee Member of the 1st China Human–Machine Computing Conference and the 21st National Symposium on Harmonious Human–Machine Environment held in Dalian in August 2025. This position recognizes contributions to the field of human-machine interaction and computing research.\n\n# Event Details\n\n- **Date:** August 2025\n- **Location:** Dalian\n- **Event:** The 1st China Human–Machine Computing Conference & the 21st National Symposium on Harmonious Human–Machine Environment\n- **Role:** Elected Executive Committee Member\n\n# Audience\n\nThis conference brings together researchers, academics, and professionals in the field of human-machine computing and interaction to discuss latest developments and innovations in the field.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

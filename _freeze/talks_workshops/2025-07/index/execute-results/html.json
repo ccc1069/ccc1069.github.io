@@ -1,0 +1,15 @@
+{
+  "hash": "16ef8521b4fde400c1acfc9b0edf6337",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"the 12th Summer School on Data Science and Engineering\"\ndescription: \"Keynote speaker at the summer school on data science\"\ndate: 2025-07\ncategories: [keynote-speaker, summer-school, data-science]\nimage: p1.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">The 12th Summer School on Data Science and Engineering</p>\n\n<br>\n\n# Abstract\n\nKeynote speaker at the 12th Summer School on Data Science and Engineering held at East China Normal University in Shanghai in July 2025. This prestigious summer school brought together researchers, students, and professionals in the field of data science and engineering to share knowledge, discuss latest developments, and foster collaborative learning in this rapidly evolving discipline.\n\n# Event Details\n\n- **Date:** July 2025\n- **Location:** East China Normal University, Shanghai\n- **Event:** the 12th Summer School on Data Science and Engineering\n- **Role:** Keynote Speaker\n\n# Audience\n\nThis summer school was designed for graduate students, researchers, and professionals interested in data science and engineering to engage in advanced training, lectures, and networking with leading experts in the field.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

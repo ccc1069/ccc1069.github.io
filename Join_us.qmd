@@ -1,0 +1,18 @@
+---
+title: "Join Us"
+subtitle: "welcome to our team"
+title-block-banner: true
+toc: false
+---
+
+## Open Positions
+
+We regularly have open positions for excellent graduate student candidates. If you are interested in joining us, please don't hesitate to contact us for more details.
+
+## Contact Information
+
+**Assoc.Prof.Jiaqi Zheng**
+
+Guangdong Institute of Smart Education,Jinan University
+
+**Email：**jqzheng@jnu.edu.cn

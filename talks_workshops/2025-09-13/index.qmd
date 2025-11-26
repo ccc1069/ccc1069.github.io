@@ -1,0 +1,35 @@
+---
+title: "Participant, the 1st Council Meeting of the Smart Education Professional Committee"
+description: "Participation in the council meeting for smart education professionals"
+date: 2025-09-13
+#categories: [smart-education, professional-committee, council-meeting]
+image: p1.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("p1.jpg")
+```
+
+<p style="text-align: center; font-weight: bold;">Group photo after the meeting</p>
+
+<br>
+
+# Abstract
+
+Participant at the 1st Council Meeting of the Smart Education Professional Committee of the China Association for Non-Government Education held in Beijing in September 2025. This meeting brought together educational professionals and experts to discuss strategic directions and initiatives in smart education.
+
+# Event Details
+
+- **Date:** September 2025
+- **Location:** Beijing
+- **Event:** The 1st Council Meeting of the Smart Education Professional Committee
+- **Hosting Organization:** China Association for Non-Government Education
+- **Role:** Participant
+
+# Audience
+
+This council meeting convened professionals and leaders in the smart education field from the China Association for Non-Government Education to collaboratively advance smart education initiatives and policy discussions.

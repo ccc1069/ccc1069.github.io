@@ -1,0 +1,24 @@
+---
+title: "Academic Writing"
+description: |
+   this class teaches students how to engage in academic writing.
+categories: [writing]
+image: image.png
+draft: false
+---
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("image.png")
+```
+
+::: {.center-text}
+**Class Photo**
+:::
+
+# Course description
+
+2024-2025 Winter, Academic Writing

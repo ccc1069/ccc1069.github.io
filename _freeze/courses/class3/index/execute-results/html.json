@@ -1,0 +1,15 @@
+{
+  "hash": "2d47d5ceadbbda387e47aec7589b5fe6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"New Electronic Information Technology\"\ndescription: |\n  this class covers modern electronic information technology.\ncategories: [electronics]\nimage: image.png\ndraft: false\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](image.png){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Class Photo**\n:::\n\n# Course description\n\n2025-2026 Summer, New Electronic Information Technology\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

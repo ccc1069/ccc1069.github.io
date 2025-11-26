@@ -1,0 +1,15 @@
+{
+  "hash": "edc57c45ee17882e736f982ec8f9a98a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers\"\ndescription: \"Keynote speaker at the exchange seminar for Hong Kong teachers\"\ndate: 2025-06\ncategories: [keynote-speaker, exchange-seminar, teacher-development]\nimage: p1.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=70%}\n:::\n\n::: {.cell-output-display}\n![](p2.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">Exchange seminar for Hong Kong promoted teachers</p>\n\n\n##\n# Abstract\n\nKeynote speaker at the Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers held at Jinan University in Guangzhou in June 2025. This seminar facilitated exchange and professional development between promoted teachers from Hong Kong and mainland educators, fostering cross-cultural educational collaboration and sharing of best practices.\n\n# Event Details\n\n- **Date:** June 2025\n- **Location:** Jinan University, Guangzhou\n- **Event:** Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers\n- **Role:** Keynote Speaker\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

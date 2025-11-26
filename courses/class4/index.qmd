@@ -1,0 +1,24 @@
+---
+title: "Introduction to Smart Education"
+description: |
+  this class introduces the fundamentals of smart education.
+categories: [education]
+image: image.png
+draft: false
+---
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "100%"
+#| fig-align: "center"
+knitr::include_graphics("image.png")
+```
+
+::: {.center-text}
+**Class Photo**
+:::
+
+# Course description
+
+2025-2026 Summer, Introduction to Smart Education

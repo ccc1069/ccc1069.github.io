@@ -1,0 +1,31 @@
+---
+title: "Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers"
+description: "Keynote speaker at the exchange seminar for Hong Kong teachers"
+date: 2025-06
+categories: [keynote-speaker, exchange-seminar, teacher-development]
+image: p1.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("p1.jpg")
+knitr::include_graphics("p2.jpg")
+```
+
+<p style="text-align: center; font-weight: bold;">Exchange seminar for Hong Kong promoted teachers</p>
+
+
+##
+# Abstract
+
+Keynote speaker at the Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers held at Jinan University in Guangzhou in June 2025. This seminar facilitated exchange and professional development between promoted teachers from Hong Kong and mainland educators, fostering cross-cultural educational collaboration and sharing of best practices.
+
+# Event Details
+
+- **Date:** June 2025
+- **Location:** Jinan University, Guangzhou
+- **Event:** Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers
+- **Role:** Keynote Speaker

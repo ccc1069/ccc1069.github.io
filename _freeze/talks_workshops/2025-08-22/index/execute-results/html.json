@@ -1,0 +1,15 @@
+{
+  "hash": "29918febd0a7083be0dddb00b81d72c6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mingzhu Education Group's 2025 Conference: Strategizing for a Future of High-Quality, Collaborative Education\"\ndescription: \"Keynote speaker at the education work conference\"\ndate: 2025-08-22\n#categories: [keynote-speaker, education-conference, leadership-training]\nimage: p1.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">Participants at the education work conference</p>\n\n<br>\n\n## Additional Photos\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p2.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">Keynote presentation at the education work conference</p>\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p3.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n<p style=\"text-align: center; font-weight: bold;\">Conference session and networking</p>\n\n<br>\n\n# Abstract\n\nKeynote speaker at the 2025 Education Work Conference & Leadership Training hosted by Mingzhu Education Group in Guangzhou. This conference gathered educational leaders and teachers to discuss innovations in education, share best practices in school management and teaching, and explore AI-enabled education transformation, fostering professional growth and collaborative development.\n\n# Event Details\n\n- **Date:** August 2025\n- **Location:** Mingzhu Education Group, Guangzhou\n- **Host Institution:** Mingzhu Education Group\n- **Role:** Keynote Speaker\n\n# Audience\n\nThe conference was designed for education administrators, principals, teachers, and staff from all campuses of Mingzhu Education Group. Participants engaged in thematic training and exchange sessions aimed at enhancing leadership, teaching competence, and school governance capabilities.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,88 @@
+---
+title: "People"
+subtitle: "a bit more about my team"
+title-block-banner: true
+toc: false
+---
+
+##
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Xiannan Li（李贤南）
+
+::: {.person-container}
+
+![](images/lxn.png){.person-img}
+
+- E-mail：lxn7013@gmail.com  
+- B.S. Data Science and Big Data Technology, Hunan Agricultural University(2020.9-2024.6)  
+- M.S. Electronic information, Guangdong Institute of Smart Education, Jinan University(2024.9-Now)  
+- Topics：Misconception  
+- Internship: Multimodal Algorithm Intern, VIVO(2025.11-Now)
+- Multimodal Algorithm Intern, Changsha Kdan Software Co.Ltd(2025.7-2025.9)
+
+:::
+
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Shutao Yu（于述韬）
+
+::: {.person-container}
+
+![](images/yst.png){.person-img}
+
+- E-mail：dddd849875115@gmail.com  
+- B.S. Internet of Things Engineering, Southwest Minzu University(2020.9-2024.6)  
+- C.S. Electronic information, Guangdong Institute of Smart Education, Jinan University(2024.9-Now)  
+- Topics：Machine Learning, Interpretability of ML  
+
+:::
+
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Xianhui Lin（林贤晖）
+
+::: {.person-container}
+
+![](images/lxh.jpg){.person-img}
+
+- E-mail：linxianhui@stu2024.jnu.edu.cn  
+- B.S. Computer Science and Technology, Guangdong University of Foreign Studies(2020.9-2024.6)  
+- M.S. Electronic information, Guangdong Institute of Smart Education, Jinan University (2024.9-Now)  
+- Topics：Affective Computing  
+- Internship: Algorithm Intern, China Beststudy Education Group(2025.6-2025.8)
+
+:::
+
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Zhaodong Chen（陈兆东）
+
+::: {.person-container}
+
+![](images/czd.jpg){.person-img}
+
+- E-mail：zdchen@stu2025.jnu.edu.cn  
+- B.S. Data Science and Big Data Technology, Guangdong University of Finance & Economics (2021.9-2025.6)  
+- M.S. Electronic information, Guangdong Institute of Smart Education, Jinan University(2025.9-Now)  
+- Topics：Affective Computing  
+
+:::
+
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Haichun Wang（王海春）
+
+::: {.person-container}
+
+![](images/whc.jpg){.person-img}
+
+- E-mail：hcwang@stu2025.jnu.edu.cn  
+- B.S. Internet of Things Engineering, Jiangxi Science and Technology Normal University(2019.9-2023.6)  
+- M.S. Electronic information, Guangdong Institute of Smart Education, Jinan University(2025.9-Now)  
+- Topics:Affective computing   
+
+:::
+
+# {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Tao Xu（徐涛）
+
+::: {.person-container}
+
+![](images/xt.jpg){.person-img}
+
+- E-mail： taoxu@stu2025.jnu.edu.cn  
+- B.S. Computer Science and Technology, Jiangxi University of Science and Technology(2021.9-2025.6)  
+- M.S. Electronic information, Guangdong Institute of Smart Education, Jinan University(2025.9-Now)  
+- Topics:Affective computing  
+
+:::

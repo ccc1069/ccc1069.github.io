@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Jia-Qi Zheng</title>
+<link>https://ccc1069.github.io/courses.html</link>
+<atom:link href="https://ccc1069.github.io/courses.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 26 Nov 2025 07:07:28 GMT</lastBuildDate>
+<item>
+  <title>Academic Writing</title>
+  <link>https://ccc1069.github.io/courses/class1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ccc1069.github.io/courses/class1/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text">
+<p><strong>Class Photo</strong></p>
+</div>
+<section id="course-description" class="level1">
+<h1>Course description</h1>
+<p>2024-2025 Winter, Academic Writing</p>
+
+
+</section>
+
+ ]]></description>
+  <category>writing</category>
+  <guid>https://ccc1069.github.io/courses/class1/</guid>
+  <pubDate>Wed, 26 Nov 2025 07:07:28 GMT</pubDate>
+  <media:content url="https://ccc1069.github.io/courses/class1/image.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>New Electronic Information Technology and Application</title>
+  <link>https://ccc1069.github.io/courses/class2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ccc1069.github.io/courses/class2/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text">
+<p><strong>Class Photo</strong></p>
+</div>
+<section id="course-description" class="level1">
+<h1>Course description</h1>
+<p>2024-2025 Winter, New Electronic Information Technology and Application</p>
+
+
+</section>
+
+ ]]></description>
+  <category>electronics</category>
+  <guid>https://ccc1069.github.io/courses/class2/</guid>
+  <pubDate>Wed, 26 Nov 2025 07:07:28 GMT</pubDate>
+  <media:content url="https://ccc1069.github.io/courses/class2/image.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+<item>
+  <title>New Electronic Information Technology</title>
+  <link>https://ccc1069.github.io/courses/class3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ccc1069.github.io/courses/class3/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text">
+<p><strong>Class Photo</strong></p>
+</div>
+<section id="course-description" class="level1">
+<h1>Course description</h1>
+<p>2025-2026 Summer, New Electronic Information Technology</p>
+
+
+</section>
+
+ ]]></description>
+  <category>electronics</category>
+  <guid>https://ccc1069.github.io/courses/class3/</guid>
+  <pubDate>Wed, 26 Nov 2025 07:07:28 GMT</pubDate>
+  <media:content url="https://ccc1069.github.io/courses/class3/image.png" medium="image" type="image/png" height="71" width="144"/>
+</item>
+<item>
+  <title>Introduction to Smart Education</title>
+  <link>https://ccc1069.github.io/courses/class4/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ccc1069.github.io/courses/class4/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text">
+<p><strong>Class Photo</strong></p>
+</div>
+<section id="course-description" class="level1">
+<h1>Course description</h1>
+<p>2025-2026 Summer, Introduction to Smart Education</p>
+
+
+</section>
+
+ ]]></description>
+  <category>education</category>
+  <guid>https://ccc1069.github.io/courses/class4/</guid>
+  <pubDate>Wed, 26 Nov 2025 07:07:28 GMT</pubDate>
+  <media:content url="https://ccc1069.github.io/courses/class4/image.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
+</channel>
+</rss>

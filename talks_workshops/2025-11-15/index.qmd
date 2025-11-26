@@ -1,0 +1,75 @@
+---
+title: "Escola Secundária Luso-Chinesa de Luís Gonzaga Gomes in Macau Principals Delegation Visit and Exchange Lecture"
+description: "Exchange lecture delivered to principals delegation from Macau"
+date: 2025-11-15
+#ategories: [exchange-lecture, international-education]
+image: teamphoto.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("teamphoto.jpg")
+```
+
+::: {.center-text}
+**Team photo from the delegation visit at Jinan University, Guangzhou**
+:::
+
+<br>
+
+## Additional Photos
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("meeting1.jpg")
+```
+
+::: {.center-text}
+**Keynote lecture presentation**
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("meeting2.jpg")
+```
+
+::: {.center-text}
+**Statements by the delegation**
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("photo.jpg")
+```
+
+::: {.center-text}
+**Group photo with students**
+:::
+<br>
+
+# Abstract
+
+The Guangdong Institute of Smart Education at Jinan University hosted an exchange lecture titled “Practical Applications of AI-Empowered Teaching.” Attendees included Principal Huang Zhengzhi of Macau's Gaomeishi Sino-Portuguese Middle School and Luo Ying, Deputy Director of Jinan University's Admissions Office. Associate Professor Zheng Jiaqi from the Institute served as the keynote speaker.
+
+Centered on educational innovation in the AI era, the event featured opening remarks by Deputy Director Luo Ying and insights from Principal Huang Zhengzhi on frontline educators' exploration and outlook for AI-driven education. Associate Professor Zheng Jiaqi delivered a presentation titled “Toward a New Smart Education Ecosystem: Technology Empowerment and Holistic Practice.” Through case studies and interactive discussions, she systematically introduced innovative AI applications in teaching scenarios to enhance classroom quality and efficiency. Participating teachers engaged actively in lively on-site exchanges.
+
+This event represents the Institute's practical efforts to advance the integration of government, industry, academia, research, and application. It aims to promote the adoption and dissemination of smart education outcomes in basic education, injecting new momentum into the digital transformation of education.
+
+# Event Details
+
+- **Date:** November 15, 2025
+- **Location:** Jinan University, Guangzhou
+- **Host Institution:** The Guangdong Institute of Smart Education at Jinan University
+- **Keynote Speaker:** Jia-Qi Zheng

@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jia-Qi Zheng"
+  # reader-mode: true
+  # repo-url: https://github.com/samanthacsik/samanthacsik.github.io
+  # repo-actions: [edit, issue]
+  site-url: https://ccc1069.github.io/
+  favicon: images/favicon/light-sage-chick.png
+  google-analytics: 
+    tracking-id: "G-LW03VL0YTS" #"UA-242992767-1"
+    anonymize-ip: true
+  navbar:             # 顶部导航栏设置
+    title: false
+    logo: images/logos/shanny-csik-logo-transparent-dark.png
+    logo-alt: "The name 'sam shanny-csik' written in green text. Above 'csik' is a green horizontal line, above which sits a green chick icon."
+    right:
+      - href: index.qmd
+        text: Home
+      - People.qmd
+      - href: talks_workshops.qmd
+        text: Talks & Workshops
+      - href: courses.qmd
+        text: Courses
+      - href: Publications.qmd
+        text: Publications
+      - Join_us.qmd
+      - text: Get In Touch!
+        menu:
+          - icon: researchgate
+            text: ResearchGate
+            href: https://www.researchgate.net/profile/Jia-Qi-Zheng
+            target: _blank
+          - icon: GoogleScholar
+            text: Google Scholar
+            href: https://scholar.google.com/citations?user=B81LwfAAAAAJ&hl
+          - icon: JNU
+            text: JNU
+            href: https://ise.jnu.edu.cn/2025/0102/c39661a829259/page.htm
+  page-footer: 
+    background: light
+    left: "@Jia-Qi Zheng"
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: 
+      - styles.scss
+    mainfont: Nunito
+    toc: true
+
+

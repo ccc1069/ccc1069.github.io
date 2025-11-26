@@ -1,0 +1,58 @@
+---
+title: "Mingzhu Education Group's 2025 Conference: Strategizing for a Future of High-Quality, Collaborative Education"
+description: "Keynote speaker at the education work conference"
+date: 2025-08-22
+#categories: [keynote-speaker, education-conference, leadership-training]
+image: p1.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("p1.jpg")
+```
+
+<p style="text-align: center; font-weight: bold;">Participants at the education work conference</p>
+
+<br>
+
+## Additional Photos
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("p2.jpg")
+```
+
+<p style="text-align: center; font-weight: bold;">Keynote presentation at the education work conference</p>
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("p3.jpg")
+```
+
+<p style="text-align: center; font-weight: bold;">Conference session and networking</p>
+
+<br>
+
+# Abstract
+
+Keynote speaker at the 2025 Education Work Conference & Leadership Training hosted by Mingzhu Education Group in Guangzhou. This conference gathered educational leaders and teachers to discuss innovations in education, share best practices in school management and teaching, and explore AI-enabled education transformation, fostering professional growth and collaborative development.
+
+# Event Details
+
+- **Date:** August 2025
+- **Location:** Mingzhu Education Group, Guangzhou
+- **Host Institution:** Mingzhu Education Group
+- **Role:** Keynote Speaker
+
+# Audience
+
+The conference was designed for education administrators, principals, teachers, and staff from all campuses of Mingzhu Education Group. Participants engaged in thematic training and exchange sessions aimed at enhancing leadership, teaching competence, and school governance capabilities.
