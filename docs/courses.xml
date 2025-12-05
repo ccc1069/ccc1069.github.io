@@ -10,7 +10,7 @@
 <atom:link href="https://ccc1069.github.io/courses.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 26 Nov 2025 07:31:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 03:37:29 GMT</lastBuildDate>
 <item>
   <title>Academic Writing</title>
   <link>https://ccc1069.github.io/courses/class1/</link>
@@ -42,7 +42,7 @@
  ]]></description>
   <category>writing</category>
   <guid>https://ccc1069.github.io/courses/class1/</guid>
-  <pubDate>Wed, 26 Nov 2025 07:31:48 GMT</pubDate>
+  <pubDate>Fri, 05 Dec 2025 03:37:29 GMT</pubDate>
   <media:content url="https://ccc1069.github.io/courses/class1/image.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -76,7 +76,7 @@
  ]]></description>
   <category>electronics</category>
   <guid>https://ccc1069.github.io/courses/class2/</guid>
-  <pubDate>Wed, 26 Nov 2025 07:31:48 GMT</pubDate>
+  <pubDate>Fri, 05 Dec 2025 03:37:29 GMT</pubDate>
   <media:content url="https://ccc1069.github.io/courses/class2/image.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
@@ -110,7 +110,7 @@
  ]]></description>
   <category>electronics</category>
   <guid>https://ccc1069.github.io/courses/class3/</guid>
-  <pubDate>Wed, 26 Nov 2025 07:31:48 GMT</pubDate>
+  <pubDate>Fri, 05 Dec 2025 03:37:29 GMT</pubDate>
   <media:content url="https://ccc1069.github.io/courses/class3/image.png" medium="image" type="image/png" height="71" width="144"/>
 </item>
 <item>
@@ -144,7 +144,7 @@
  ]]></description>
   <category>education</category>
   <guid>https://ccc1069.github.io/courses/class4/</guid>
-  <pubDate>Wed, 26 Nov 2025 07:31:48 GMT</pubDate>
+  <pubDate>Fri, 05 Dec 2025 03:37:29 GMT</pubDate>
   <media:content url="https://ccc1069.github.io/courses/class4/image.png" medium="image" type="image/png" height="84" width="144"/>
 </item>
 </channel>
