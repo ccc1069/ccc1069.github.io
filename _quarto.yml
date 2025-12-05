@@ -46,6 +46,12 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <meta name="format-detection" content="telephone=no">
+        <meta name="format-detection" content="date=no">
+        <meta name="format-detection" content="address=no">
+        <meta name="format-detection" content="email=no">
     page-layout: full
     sidebar: false
     theme: 
