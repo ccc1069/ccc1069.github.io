@@ -3,6 +3,22 @@
 // Import fonts (define mainfont in _quarto.yml)
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
+
+@media (max-width: 768px) {
+  /* 替换 .person-container 为你实际包裹 图片+文字 的那个 div 的类名 */
+  .person-container {
+    flex-direction: column; /* 改为上下排列 */
+    align-items: center;    /* 图片居中 */
+  }
+
+  /* 给图片增加一点底部间距，别离文字太近 */
+  .person-container img {
+    margin-bottom: 15px;
+    width: 150px; /* 手机端可以强制指定一个合适的宽度 */
+    height: 150px; /* 保持正方形，或者设为 auto */
+  }
+}
+
 // fonts
 $nunito: 'Nunito', sans-serif; 
 $josefin: 'Josefin Sans', sans-serif; 
