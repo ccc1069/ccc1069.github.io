@@ -10,7 +10,7 @@ toc: false
 
 ::: {.person-container}
 
-![](images/lxn.png){.person-img}
+![](images/lxn.jpg){.person-img}
 
 - **E-mail：** lxn7013@gmail.com  
 - **B.S.** Data Science and Big Data Technology, Hunan Agricultural University(2020.9-2024.6)  
@@ -25,7 +25,7 @@ toc: false
 
 ::: {.person-container}
 
-![](images/yst.png){.person-img}
+![](images/yst.jpg){.person-img}
 
 - **E-mail：** dddd849875115@gmail.com  
 - **B.S.** Internet of Things Engineering, Southwest Minzu University(2020.9-2024.6)  
