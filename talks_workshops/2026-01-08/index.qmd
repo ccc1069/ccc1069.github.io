@@ -1,0 +1,62 @@
+---
+title: "Bathed in Sunshine, Chasing Dreams: Smart Education Platform Training"
+description: "Teacher application practical training for the Smart Education Platform"
+date: 2026-01-08
+categories: [AI-education, teacher-training]
+image: p2.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("p2.jpg")
+```
+
+::: {.center-text}
+**Nanhai Central Primary School training session**
+:::
+
+<br>
+
+## Additional Photos
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("p3.jpg")
+```
+
+::: {.center-text}
+**Associate Professor Jia-Qi Zheng introducing the platform**
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("p1.jpg")
+```
+
+::: {.center-text}
+**Associate Researcher Wang Fengyi explaining core modules**
+:::
+
+<br>
+
+# Abstract
+
+On the morning of January 7, 2026, Nanhai Central Primary School successfully held the "Jiuzhang Aixue Primary and Secondary Smart Education Platform" teacher application practical training.
+
+**Associate Professor Jia-Qi Zheng** and **Associate Researcher Wang Fengyi** from the Guangdong Institute of Smart Education at Jinan University were invited to give lectures. They introduced the platform's core concepts, architecture, and highlights, and guided teachers in practical operations of AI precision learning and intelligent Q&A modules to promote the deep integration of AI technology and education.
+
+# Event Details
+
+- **Date:** January 7, 2026
+- **Location:** Nanhai Central Primary School
+- **Host Institution:** Nanhai Central Primary School
+- **Speakers:** Jia-Qi Zheng, Fengyi Wang

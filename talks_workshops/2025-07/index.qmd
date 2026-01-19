@@ -1,5 +1,5 @@
 ---
-title: "the 12th Summer School on Data Science and Engineering"
+title: "The 12th Summer School on Data Science and Engineering"
 description: "Keynote speaker at the summer school on data science"
 date: 2025-07
 categories: [keynote-speaker, summer-school, data-science]

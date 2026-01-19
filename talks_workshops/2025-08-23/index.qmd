@@ -1,5 +1,5 @@
 ---
-title: "Elected Executive Committee Member, the 1st China Human–Machine Computing Conference"
+title: "China Human-Machine Computing Conference"
 description: "Election to executive committee of the computing conference"
 date: 2025-08-23
 #categories: [conference, executive-committee, computing]

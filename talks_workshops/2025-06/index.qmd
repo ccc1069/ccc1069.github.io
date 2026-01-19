@@ -1,5 +1,5 @@
 ---
-title: "Exchange Seminar for Mainland Study Tours for Hong Kong Promoted Teachers"
+title: "Lecture for Hong Kong Promoted Teachers"
 description: "Keynote speaker at the exchange seminar for Hong Kong teachers"
 date: 2025-06
 categories: [keynote-speaker, exchange-seminar, teacher-development]

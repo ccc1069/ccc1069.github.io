@@ -1,0 +1,15 @@
+{
+  "hash": "242dc40983273842c5631fdb2ffeda9a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Building a New Chapter of Smart Education with Jinan University\"\ndescription: \"Special training on \\\"Artificial Intelligence Empowering Basic Education\\\"\"\ndate: 2026-01-09\ncategories: [AI-education, teacher-training]\nimage: p3.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p3.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n::: {.center-text}\n**Group photo at the end of the training**\n:::\n\n<br>\n\n## Additional Photos\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p1.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Associate Professor Jia-Qi Zheng explaining the platform**\n:::\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p2.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Associate Researcher Wang Fengyi conducting practical guidance**\n:::\n\n<br>\n\n# Abstract\n\nOn the morning of January 8, 2026, Xiqiao Town Central Primary School held a special training on \"Artificial Intelligence Empowering Basic Education\".\n\nThe event featured **Associate Professor Jia-Qi Zheng** and **Associate Researcher Wang Fengyi** from the Guangdong Institute of Smart Education at Jinan University. They provided a systematic explanation and demonstration of the \"Jiuzhang Aixue\" platform's architecture, functions, and teaching application scenarios, helping teachers understand how to use AI tools for classroom interaction and personalized learning diagnosis.\n\n# Event Details\n\n- **Date:** January 8, 2026\n- **Location:** Xiqiao Town Central Primary School\n- **Host Institution:** Xiqiao Town Central Primary School\n- **Speakers:** Jia-Qi Zheng, Fengyi Wang\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

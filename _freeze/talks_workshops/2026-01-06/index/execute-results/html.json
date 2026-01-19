@@ -1,0 +1,15 @@
+{
+  "hash": "4302baa4332c18a8ddfc9d825a1ba48e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\\\"Jiuzhang Aixue\\\" Training Launch at Guanyao Central Primary School\"\ndescription: \"Exploring new paths for AI education integration and \\\"Jiuzhang Aixue\\\" platform training\"\ndate: 2026-01-06\ncategories: [AI-education, teacher-training]\nimage: p5.jpg\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p5.jpg){fig-align='center' width=70%}\n:::\n:::\n\n\n::: {.center-text}\n**\"Jiuzhang Aixue\" project first teacher application practical training launch**\n:::\n\n<br>\n\n## Additional Photos\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p4.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Associate Professor Jia-Qi Zheng delivering the training**\n:::\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p3.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Hands-on practice session for teachers**\n:::\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p5.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Interactive session with teachers**\n:::\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](p6.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n::: {.center-text}\n**Group photo and certificate presentation**\n:::\n\n<br>\n\n# Abstract\n\nOn January 5, 2026, the first teacher application practical training for the \"Jiuzhang Aixue Primary and Secondary Smart Education Platform\" Nanhai Zone Project kicked off at the Mingde Campus of Guanyao Central Primary School. \n\nThe training was delivered by **Associate Professor Jia-Qi Zheng** and **Associate Researcher Wang Fengyi** from the Guangdong Institute of Smart Education at Jinan University. The session focused on the practical application of the \"Jiuzhang Aixue\" platform, demonstrating AI Q&A and precision practice for students, and the \"Jiuzhang Aixue Teacher Intelligent Agent\" for teachers to generate lesson plans and assist in teaching design.\n\n# Event Details\n\n- **Date:** January 6, 2026\n- **Location:** Guanyao Central Primary School (Mingde Campus)\n- **Host Institution:** Guanyao Central Primary School, Nanhai District\n- **Speakers:** Jia-Qi Zheng, Fengyi Wang\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: "Participant, the 1st Council Meeting of the Smart Education Professional Committee"
+title: "Smart Education Committee Council Meeting"
 description: "Participation in the council meeting for smart education professionals"
 date: 2025-09-13
 #categories: [smart-education, professional-committee, council-meeting]

@@ -1,5 +1,5 @@
 ---
-title: "Escola Secundária Luso-Chinesa de Luís Gonzaga Gomes in Macau Principals Delegation Visit and Exchange Lecture"
+title: "Macau Principals Delegation Lecture"
 description: "Exchange lecture delivered to principals delegation from Macau"
 date: 2025-11-15
 #ategories: [exchange-lecture, international-education]

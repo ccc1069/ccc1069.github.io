@@ -1,0 +1,74 @@
+---
+title: "Unlocking New Teaching Skills: AI Empowering Basic Education Training at Shishi"
+description: "Dali Town Special Teacher Training on \"Jiuzhang Aixue\" Platform"
+date: 2026-01-14
+#categories: [AI-education, teacher-training]
+image: image1.jpg
+---
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "70%" 
+knitr::include_graphics("image1.jpg")
+```
+
+::: {.center-text}
+**Training session at Shishi Experimental School**
+:::
+
+<br>
+
+## Additional Photos
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("image2.jpg")
+```
+
+::: {.center-text}
+**Professor Jia-Qi Zheng explaining platform values**
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("image3.jpg")
+```
+
+::: {.center-text}
+**Researcher Wang Fengyi demonstrating practical operations**
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "100%"
+knitr::include_graphics("image4.jpg")
+```
+
+::: {.center-text}
+**Teachers in the practical application session**
+:::
+
+<br>
+
+# Abstract
+
+On January 13, 2026, the **2026 Nanhai District Artificial Intelligence Empowering Basic Education Project Dali Special Teacher Training** was successfully held at Shishi Experimental School.
+
+**Professor Jia-Qi Zheng** and **Researcher Wang Fengyi** from the Guangdong Institute of Smart Education at Jinan University conducted the training. The session focused on the practical application of the "Jiuzhang Aixue" platform. Professor Zheng interpreted the platform's core values, while Researcher Wang provided detailed demonstrations of functions like AI lesson preparation and learning analysis, helping teachers unlock new skills for AI-integrated teaching.
+
+# Event Details
+
+- **Date:** January 13, 2026
+- **Location:** Shishi Experimental School, Nanhai District
+- **Event:** AI Empowering Basic Education Training (Dali Special Session)
+- **Speakers:** Jia-Qi Zheng, Fengyi Wang
