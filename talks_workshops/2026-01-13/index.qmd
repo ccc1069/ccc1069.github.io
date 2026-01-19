@@ -2,7 +2,7 @@
 title: "\"Jiuzhang Aixue\" Training for Hong Kong Promoted Teachers Delegation"
 description: "Practical training on using the \"Jiuzhang Aixue\" platform for visiting Hong Kong teachers"
 date: 2026-01-13
-#categories: [AI-education, teacher-training]
+categories: [AI-education, teacher-training]
 image: p1.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: "Unlocking New Teaching Skills: AI Empowering Basic Education Training at Shishi"
 description: "Dali Town Special Teacher Training on \"Jiuzhang Aixue\" Platform"
 date: 2026-01-14
-#categories: [AI-education, teacher-training]
+categories: [AI-education, teacher-training]
 image: image1.jpg
 ---
 

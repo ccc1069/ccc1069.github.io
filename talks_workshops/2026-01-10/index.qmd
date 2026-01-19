@@ -2,7 +2,7 @@
 title: "\"Jiuzhang Aixue\" Powering the Classroom: AI Training at Qifeng Primary School"
 description: "Specialized training on the \"Jiuzhang Aixue\" AI teaching platform"
 date: 2026-01-10
-#categories: [AI-education, teacher-training]
+categories: [AI-education, teacher-training]
 image: p1.png
 ---
 
